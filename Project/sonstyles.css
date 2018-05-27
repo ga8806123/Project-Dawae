@@ -1,0 +1,28 @@
+.supsonn{
+        color:rgb(255, 85, 71);
+}
+
+.Header-Main{
+  backgroun: grey;
+  height:25px;
+  text-align: left;
+  padding: 5px;
+  margin: 10px;
+  border-radius: 50px 20px;
+}
+
+.header-Main > .box-left{
+color:black;
+width:100%;
+text-align: left;
+
+}
+.Header-Main > .right-banner{
+color: grey;
+text-align:right;
+float: right;
+}
+
+/*.main-content:hover {
+        text-align: center;
+}
